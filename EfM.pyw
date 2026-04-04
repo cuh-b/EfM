@@ -1,4 +1,4 @@
-# Copyright (c) 2026 Cubb
+# Copyright (c) 2024 Cubb
 # SPDX-License-Identifier: Apache-2.0
 # Licensed under the Apache License, Version 2.0 (see LICENSE file)
 
